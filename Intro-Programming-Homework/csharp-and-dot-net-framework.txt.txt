@@ -1,0 +1,2 @@
+C# is a programming language while .NET cover both the .NET Framework (an application framework library) and the Common Language Runtime (CLR) which is the runtime in which .NET assemblies are run. Other Languages that can work with .NET are VB.NET, F#, J#, IronPython, IronRuby 
+Same is  the case of Java and Java Virtual Machine (JVM)

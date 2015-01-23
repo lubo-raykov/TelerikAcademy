@@ -1,0 +1,15 @@
+Microsoft Visual Studio 
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. Visual Studio includes a code editor supporting IntelliSense as well as code refactoring. The integrated debugger works both as a source-level debugger and a machine-level debugger. Other built-in tools include a forms designer for building GUI applications, web designer, class designer, and database schema designer. It accepts plug-ins that enhance the functionality at almost every level.
+
+Oracle Netbeans 7
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM. Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support and libraries, among other things.
+
+Eclipse
+It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages for the software Mathematica. Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+Code::Blocks
+Code::Blocks, is built on the wxWidgets framework, is exceptionally lightweight in size, yet still quite functional and feature-rich IDE. Can load up a number of under-the-hood compiler engines, ranging from GCC and LLVM, to Digital Mars and Open Watcom. Code::Blocks also takes advantage of multi-core compiling, allowing you to get the job done faster. 
+
+Aptana Studio
+Aptana Studio is dedicated for web and scripting languages. PHP, Ruby on Rails, and Python are supported as well as the likes of Adobe AIR. Even the studio itself is available as a plugin for Eclipse.
